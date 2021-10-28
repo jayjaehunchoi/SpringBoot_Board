@@ -26,3 +26,12 @@ Spring Mvc 작동 원리에 대한 이해와 핵심 기술을 바탕으로 실�
 13. swagger로 api 문서 제작해보기..
 14. Session 로그인에서 Jwt 기반 로그인으로 전환하기
 15. STOMP를 사용하여 WebSocket 구현하기
+16. AWS S3에 이미지를 업로드하고, front에 전달하기
+
+## 참고중..
+1. (RESTFUL api 설계 가이드)[https://sanghaklee.tistory.com/57]
+2. (Json 날짜 타입)[https://jojoldu.tistory.com/361]
+3. (페이징 성능 개선)[https://jojoldu.tistory.com/529?category=637935]
+4. (aop 시작하기)[https://github.com/jojoldu/blog-code/tree/master/aop]
+5. (aws s3 이미지 업로드)[https://www.youtube.com/watch?v=vY7c7k8xmKE]
+6. (알람 서비스)[https://zuminternet.github.io/ZUM-Pilot-qkrtjdehd/]
