@@ -1,4 +1,6 @@
 # Spring Board
+## 어떤?
+Spring Mvc 작동 원리에 대한 이해와 핵심 기술을 바탕으로 실시간 알람기능이 존재하는 게시판을 제작하고자 한다.
 
 ## Requirement
 1. JDK 11
@@ -23,3 +25,4 @@
 12. validation에 신경쓸 것
 13. swagger로 api 문서 제작해보기..
 14. Session 로그인에서 Jwt 기반 로그인으로 전환하기
+15. STOMP를 사용하여 WebSocket 구현하기
