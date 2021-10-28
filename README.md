@@ -2,10 +2,11 @@
 
 ## Requirement
 1. JDK 11
-2. H2 Database
-3. JPA
-4. Querydsl
-5. JUnit5
+2. Spring Boot 2.5.6
+3. H2 Database
+4. JPA
+5. Querydsl
+6. JUnit5
 
 ## 만들면서 집중할 것
 1. Aop의 활용
@@ -21,3 +22,4 @@
 11. 도움되는 주석 달아가며 개발할 것
 12. validation에 신경쓸 것
 13. swagger로 api 문서 제작해보기..
+14. Session 로그인에서 Jwt 기반 로그인으로 전환하기
